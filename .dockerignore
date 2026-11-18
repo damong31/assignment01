@@ -5,4 +5,3 @@ backend
 .git
 .husky
 .commitlintrc.json
-gha-creds-*.json
